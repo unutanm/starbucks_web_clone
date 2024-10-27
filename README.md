@@ -1,6 +1,4 @@
-Tabii, Starbucks web sitesinin klonunu oluşturduğunuz proje için bir README açıklaması önerisi:
 
----
 
 # Starbucks Web Sitesi Klonu
 
